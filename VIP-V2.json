@@ -4,32 +4,32 @@
 
 {
          "name": "SG-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-VIP-001.ovpn"
       },
 
 {
          "name": "SG-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-VIP-002.ovpn"
       },
 
 {
          "name": "TH-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-001.ovpn"
       },
 
 {
          "name": "TH-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-004.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-002.ovpn"
       },
 
 {
          "name": "TH-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-005.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-003.ovpn"
       },
 
 {
          "name": "TH-004",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-006.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-004.ovpn"
       }
 
 
