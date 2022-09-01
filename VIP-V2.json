@@ -30,14 +30,24 @@
 {
          "name": "TH-004",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-004.ovpn"
+      },
+
+{
+         "name": "TH-005",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-005.ovpn"
+      },
+
+{
+         "name": "TH-006",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-006.ovpn"
       }
 
 
 
    ],
-"message":"29 August 2022\n\n•Version:1\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
+"message":"1 September 2022\n\n•Version:2\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"✅Add New VIP✅" ,
-   "version": 1
+   "version": 2
 }
 
 
