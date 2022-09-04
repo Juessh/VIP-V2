@@ -45,14 +45,19 @@
 {
          "name": "TH-007",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-007.ovpn"
+      },
+
+{
+         "name": "TH-008",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-008.ovpn"
       }
 
 
 
    ],
-"message":"3 September 2022\n\n•Version:6\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"4 September 2022\n\n•Version:7\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"✅Add New VIP✅" ,
-   "version": 6
+   "version": 7
 }
 
 
