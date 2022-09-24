@@ -58,6 +58,11 @@
       },
 
 {
+         "name": "TH-010",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-010.ovpn"
+      },
+
+{
          "name": "TH-FREE-001",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/JHPAID-001.ovpn"
       },
@@ -70,9 +75,9 @@
 
 
    ],
-"message":"24 September 2022\n\n•Version:9\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"24 September 2022\n\n•Version:10\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"✅Add New VIP✅" ,
-   "version": 9
+   "version": 10
 }
 
 
