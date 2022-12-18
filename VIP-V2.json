@@ -4,17 +4,22 @@
 
 {
          "name": "SG-001",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/SG-001.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-001.ovpn"
       },
 
 {
          "name": "SG-002",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/SG-002.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-002.ovpn"
       },
 
 {
          "name": "SG-003",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/SG-003.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-003.ovpn"
+      },
+
+{
+         "name": "SG-004",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-004.ovpn"
       },
 
 {
@@ -110,9 +115,9 @@
 
 
    ],
-"message":"15 December 2022\n\n•Version:18\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"18 December 2022\n\n•Version:19\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"✅Fixed All Servers✅" ,
-   "version": 18
+   "version": 19
 }
 
 
