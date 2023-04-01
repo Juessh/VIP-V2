@@ -12,6 +12,17 @@
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-002.ovpn"
       },
 
+{
+         "name": "SG-FREE-001",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-FREE-001.ovpn"
+      },
+
+{
+         "name": "SG-FREE-002",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-FREE-002.ovpn"
+      },
+
+
 
 {
          "name": "TH-001",
@@ -128,9 +139,9 @@
 
 
    ],
-"message":"26 March 2023\n\n•Version:33\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"01 April 2023\n\n•Version:34\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"🎄New Game VPS🎄" ,
-   "version": 33
+   "version": 34
 }
 
 
